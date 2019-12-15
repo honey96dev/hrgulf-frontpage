@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/static/js/0.chunk.js",
+    "main.css": "/static/css/main.chunk.css",
+    "main.js": "/static/js/main.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.js",
+    "static/css/3.chunk.css": "/static/css/3.chunk.css",
+    "static/js/3.chunk.js": "/static/js/3.chunk.js",
+    "static/css/4.chunk.css": "/static/css/4.chunk.css",
+    "static/js/4.chunk.js": "/static/js/4.chunk.js",
+    "static/css/5.chunk.css": "/static/css/5.chunk.css",
+    "static/js/5.chunk.js": "/static/js/5.chunk.js",
+    "static/js/6.chunk.js": "/static/js/6.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.32e64bb186b38dfed920d2307cc1aa18.js": "/precache-manifest.32e64bb186b38dfed920d2307cc1aa18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/index.scss": "/static/media/circle-chain3.png",
+    "static/media/eliteresources.png": "/static/media/eliteresources.png",
+    "static/media/all.css": "/static/media/fa-solid-900.woff2",
+    "static/media/ghcs.png": "/static/media/ghcs.png",
+    "static/media/NavStick.scss": "/static/media/nav-bg.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.js",
+    "static/css/3.chunk.css",
+    "static/js/3.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}

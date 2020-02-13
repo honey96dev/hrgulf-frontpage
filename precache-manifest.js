@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/5.chunk.css"
   },
   {
-    "revision": "373eb2109a32f03980dd",
+    "revision": "85883d2a32bf5f219357",
     "url": "/static/css/main.chunk.css"
   },
   {
@@ -40,12 +40,72 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/6.chunk.js"
   },
   {
-    "revision": "373eb2109a32f03980dd",
+    "revision": "85883d2a32bf5f219357",
     "url": "/static/js/main.chunk.js"
   },
   {
     "revision": "8c2deab7b579eb9f5f19",
     "url": "/static/js/runtime-main.js"
+  },
+  {
+    "revision": "997c8a57831dff176f5a2b1414115720",
+    "url": "/static/media/DIN Medium.eot"
+  },
+  {
+    "revision": "6eca8b1e1788cbd126291b5be17934ad",
+    "url": "/static/media/DIN Medium.ttf"
+  },
+  {
+    "revision": "5e15776f48b030b694dd7b6bcdb7b652",
+    "url": "/static/media/DIN Medium.woff"
+  },
+  {
+    "revision": "ad115e7cc77cfc7a8c7b23a9e66f003a",
+    "url": "/static/media/DIN Regular.eot"
+  },
+  {
+    "revision": "9adeea15e9580f65a69ecab0304ee99c",
+    "url": "/static/media/DIN Regular.ttf"
+  },
+  {
+    "revision": "8910bbd3c7a991f75893e93929e78309",
+    "url": "/static/media/DIN Regular.woff"
+  },
+  {
+    "revision": "aa2d89ab95a28ae1ab29c9d9e953fce2",
+    "url": "/static/media/DIN-Bold.eot"
+  },
+  {
+    "revision": "e07712419b190b368204f9c1c715912d",
+    "url": "/static/media/DIN-Bold.ttf"
+  },
+  {
+    "revision": "48231b6ff7cdcadfd60609a339a46cb4",
+    "url": "/static/media/DIN-Bold.woff"
+  },
+  {
+    "revision": "e0276c5087815a17b85239a482223ce6",
+    "url": "/static/media/Droid Arabic Kufi Bold.eot"
+  },
+  {
+    "revision": "4d8f3463211aa7df25ce017e08122a9d",
+    "url": "/static/media/Droid Arabic Kufi Bold.ttf"
+  },
+  {
+    "revision": "ce03fb8488c15ab6ced28da32c01ff57",
+    "url": "/static/media/Droid Arabic Kufi Bold.woff"
+  },
+  {
+    "revision": "fd2849c7f54c3e3f7d03116ddc6f4921",
+    "url": "/static/media/Droid Arabic Kufi.eot"
+  },
+  {
+    "revision": "e4f4269620ef9498e24ae19eb05ac95c",
+    "url": "/static/media/Droid Arabic Kufi.ttf"
+  },
+  {
+    "revision": "94ee13c9e510314bf8511d56a410299b",
+    "url": "/static/media/Droid Arabic Kufi.woff"
   },
   {
     "revision": "a2b18566a80118a1e1e092f3fa012918",
